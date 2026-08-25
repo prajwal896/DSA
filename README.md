@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwal896/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwal896/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwal896/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prajwal896/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prajwal896/DSA/tree/main/0001-two-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prajwal896/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 <!---LeetCode Topics End-->
