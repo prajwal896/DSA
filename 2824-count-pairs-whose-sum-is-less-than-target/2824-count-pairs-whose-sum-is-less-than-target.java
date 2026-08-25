@@ -3,7 +3,7 @@ class Solution {
         int i=0, j=0, l=nums.size(), p=0, sum=0; 
         
         for(i=0; i<=l-1; i++){ 
-            for(j=0; j<=l-1; j++){ 
+            for(j=i; j<=l-1; j++){ 
                 
                 sum = nums.get(i) + nums.get(j);
                 
