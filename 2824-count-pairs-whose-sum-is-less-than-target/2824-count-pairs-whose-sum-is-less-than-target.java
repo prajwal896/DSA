@@ -8,7 +8,7 @@ class Solution {
                 sum = nums.get(i) + nums.get(j);
                 
                 if(sum < target && 0 <= i && i < j && j < l){
-                    p++; 
+                    p++;
                 }
             } 
         }
