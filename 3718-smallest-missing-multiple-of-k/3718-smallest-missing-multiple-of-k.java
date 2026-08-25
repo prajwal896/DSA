@@ -3,7 +3,7 @@ class Solution {
         int i=0,j=1; 
         boolean found=false; 
         
-        for(j=1; j<=101; j++){ 
+        for(j=1; found=true; j++){ 
             found=false;
             for(int n : nums){ 
                 if(k*j == n) {
