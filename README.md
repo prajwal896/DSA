@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prajwal896/DSA/tree/main/0001-two-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajwal896/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prajwal896/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prajwal896/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
