@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwal896/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwal896/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2043-simple-bank-system](https://github.com/prajwal896/DSA/tree/main/2043-simple-bank-system/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajwal896/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwal896/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajwal896/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajwal896/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwal896/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
