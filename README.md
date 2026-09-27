@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajwal896/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/prajwal896/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwal896/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
