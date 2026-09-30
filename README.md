@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajwal896/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/prajwal896/DSA/tree/main/2652-sum-multiples/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prajwal896/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prajwal896/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2043-simple-bank-system](https://github.com/prajwal896/DSA/tree/main/2043-simple-bank-system/) | Medium |
 <!---LeetCode Topics End-->
