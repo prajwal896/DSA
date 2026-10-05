@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/prajwal896/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/prajwal896/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
 | [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
