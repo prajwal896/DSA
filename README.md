@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/prajwal896/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajwal896/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/prajwal896/DSA/tree/main/2652-sum-multiples/) | Easy |
