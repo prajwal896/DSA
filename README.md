@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajwal896/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/prajwal896/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prajwal896/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prajwal896/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/prajwal896/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2043-simple-bank-system](https://github.com/prajwal896/DSA/tree/main/2043-simple-bank-system/) | Medium |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/prajwal896/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
 | [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prajwal896/DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/prajwal896/DSA/tree/main/2652-sum-multiples/) | Easy |
@@ -100,4 +102,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/prajwal896/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/prajwal896/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
