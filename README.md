@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prajwal896/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/prajwal896/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/prajwal896/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/prajwal896/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/prajwal896/DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prajwal896/DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/prajwal896/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/prajwal896/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2043-simple-bank-system](https://github.com/prajwal896/DSA/tree/main/2043-simple-bank-system/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajwal896/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prajwal896/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/prajwal896/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prajwal896/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
