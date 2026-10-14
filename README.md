@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prajwal896/DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/prajwal896/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prajwal896/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/prajwal896/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0706-design-hashmap](https://github.com/prajwal896/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [2043-simple-bank-system](https://github.com/prajwal896/DSA/tree/main/2043-simple-bank-system/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prajwal896/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prajwal896/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/prajwal896/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/prajwal896/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/prajwal896/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prajwal896/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/prajwal896/DSA/tree/main/0706-design-hashmap/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/prajwal896/DSA/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
